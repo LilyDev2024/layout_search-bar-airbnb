@@ -22,11 +22,12 @@ body {
   align-items: center;
   gap: 17px;
   box-shadow: 0 1px 8px 0 rgba(61, 78, 97, 0.1);
-  margin-top: 20px;
+  width: 100%;
 }
 
 .search--large {
   height: 70px;
+  margin-bottom: 20px;
 }
 
 .search--small {
